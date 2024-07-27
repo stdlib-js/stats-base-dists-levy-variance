@@ -67,7 +67,7 @@ The [variance][variance] for a [Lévy][levy-distribution] random variable with l
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-variance@v0.2.2-esm/index.mjs';
 ```
 
 #### variance( mu, c )
@@ -132,7 +132,7 @@ y = variance( 0.0, -1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-variance@v0.2.2-esm/index.mjs';
 
 var mu;
 var c;
