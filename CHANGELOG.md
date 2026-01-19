@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-28)
+## Unreleased (2026-01-19)
 
 <section class="features">
 
@@ -34,6 +34,9 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`99d1d40`](https://github.com/stdlib-js/stdlib/commit/99d1d40243aee2ea033af6eb4cc168841755a62e) - **test:** remove duplicate test cases in `stats/base/dists/levy` packages _(by Philipp Burckhardt)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`73050cb`](https://github.com/stdlib-js/stdlib/commit/73050cb11de45fd04b8e59c5df8ef30f891dba07) - **bench:** refactor random number generation in `stats/base/dists/levy` [(#6044)](https://github.com/stdlib-js/stdlib/pull/6044) _(by Hemant M Mehta, Athan Reines)_
 -   [`ad7a023`](https://github.com/stdlib-js/stdlib/commit/ad7a02395bbac49b3049917fdc82c1c1c9dae08b) - **feat:** add C implementation for `stats/base/dists/levy/variance` [(#3963)](https://github.com/stdlib-js/stdlib/pull/3963) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
